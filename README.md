@@ -2,7 +2,7 @@
 ## Умения:
   - 👨🏻‍💻 Python (Data Science, telegram-bots, etc.)
   - 🔩 C (Algoritms, library)
-  - Java, Flutter/Dart (Android apps)
+  - 🐸 Java, Flutter/Dart (Android apps)
 
 ## Инфо: 
   - 🌱 Студент [21 School](https://21-school.ru)
