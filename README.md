@@ -21,7 +21,7 @@ ____
 | Name | Description | Tools |
 | --- | --- | --- |
 | [Dobraya_Stolovaya](https://github.com/DoctorSB/Dobraya_Stolovaya_Telegram_Bot) | Telegram-bot, Json-parsing | Python (aiogram, reqeuests, etc.)|
-| [Washer]([https://github.com/DoctorSB/so_cute](https://github.com/DoctorSB/Washer_bot)) | Telegram-bot | Python (aiogram3, datatime) |
+| [Washer]([https://github.com/DoctorSB/so_cute](https://github.com/DoctorSB/Washer_bot) | Telegram-bot | Python (aiogram3, datatime) |
 | [Async](https://github.com/DoctorSB/Async_Telegram_Bot) | Telegram-bot, file manager | Python, sys, aiogram |
 ### 🌟 Другое
 | Name | Description | Tools |
