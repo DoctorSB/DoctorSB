@@ -8,9 +8,6 @@
   - 🌱 Студент [21 School](https://21-school.ru)
   - 🎓 Студент КНИТУ
 
-### 📱Контакты:
-| 📫 ikamil522@gmail.com | 🗳️ telegram: @get_lost_me |
-| --- | --- |
 
 ____
 |[![DoctorSB Github stats](https://github-readme-stats.vercel.app/api?username=DoctorSB&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=dark)](https://github.com/DoctorSB?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSB&layout=compact&hide_border=true&hide=vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/DoctorSB?tab=repositories) |
