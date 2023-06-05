@@ -14,7 +14,7 @@ ____
 |---|---|
 ____
 
-### 🐍 Data Scirnce
+### 🐍 Data Science
 | Name | Description | Tools |
 | --- | --- | --- |
 | [OilHack](https://github.com/DoctorSB/OilHack) | Парсинг файлов, Построение графиков | Python ,matplotlib, pandas|
