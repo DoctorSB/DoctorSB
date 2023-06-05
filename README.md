@@ -14,12 +14,20 @@ ____
 |---|---|
 ____
 
-### 🐍 Python проекты
+### 🐍 Data Scirnce
+| Name | Description | Tools |
+| --- | --- | --- |
+| [OilHack](https://github.com/DoctorSB/OilHack) | Парсинг файлов, Построение графиков | Python ,matplotlib, pandas|
+| [Math_Logic](https://github.com/DoctorSB/math_logic) | Теория, Построение графиков | Python, numpy, matplotlib |
+| [Bike_Dataframe](https://github.com/DoctorSB/Bike-Dataframe) | Аналитика, метрики | Python, pandas|
+
+### 🐍 Telegram боты
 | Name | Description | Tools |
 | --- | --- | --- |
 | [Dobraya_Stolovaya](https://github.com/DoctorSB/Dobraya_Stolovaya_Telegram_Bot) | Telegram-bot, Json-parsing | Python (aiogram, reqeuests, etc.)|
 | [Washer](https://github.com/DoctorSB/Washer_bot) | Telegram-bot | Python (aiogram3, datatime) |
 | [Async](https://github.com/DoctorSB/Async_Telegram_Bot) | Telegram-bot, file manager | Python, sys, aiogram |
+
 ### 🌟 Другое
 | Name | Description | Tools |
 | --- | --- | --- |
