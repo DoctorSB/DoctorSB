@@ -17,19 +17,22 @@ ____
 ### 🐍 Data Science
 | Name | Description | Tools |
 | --- | --- | --- |
-| [OilHack](https://github.com/DoctorSB/OilHack) | Парсинг файлов, Построение графиков | Python ,matplotlib, pandas|
+| [OilHack](https://github.com/DoctorSB/OilHack) | Парсинг файлов, Построение графиков | Python, matplotlib, pandas |
+| [VolgaHack](https://github.com/DoctorSB/VolgaHack) | Парсинг сайтов, Построение wordclloud | Python, sklearn, pandas |
+| [vk_education](https://github.com/DoctorSB/vk_education ) | Парсинг файлов, Обучение библиотекам | matplotlib, sklearn, pandas |
 | [Math_Logic](https://github.com/DoctorSB/math_logic) | Теория, Построение графиков | Python, numpy, matplotlib |
-| [Bike_Dataframe](https://github.com/DoctorSB/Bike-Dataframe) | Аналитика, метрики | Python, pandas|
+| [Bike_Dataframe](https://github.com/DoctorSB/Bike-Dataframe) | Аналитика, метрики | Python, pandas |
 
 ### 🐍 Telegram боты
 | Name | Description | Tools |
 | --- | --- | --- |
-| [Dobraya_Stolovaya](https://github.com/DoctorSB/Dobraya_Stolovaya_Telegram_Bot) | Telegram-bot, Json-parsing | Python (aiogram, reqeuests, etc.)|
-| [Washer](https://github.com/DoctorSB/Washer_bot) | Telegram-bot | Python (aiogram3, datatime) |
-| [Async](https://github.com/DoctorSB/Async_Telegram_Bot) | Telegram-bot, file manager | Python, sys, aiogram |
+| [GPT_Telegram_Bot](https://github.com/DoctorSB/GPT_Telegram_Bot) | Telegram-bot, API | Python (aiogram3, reqeuests, etc.)|
+| [DobroStart_Telegram_Bot](https://github.com/DoctorSB/DobroStart_Telegram_Bot) | Telegram-bot, file manager, DB, Docker | Python, aiogram3, postgres |
+| [SmartHostel_Telegram_Bot](https://github.com/DoctorSB/SmartHostel_Telegram_Bot) | Telegram-bot, json, Docker | Python (aiogram3, datatime) |
+| [Notice_Telegram_Bot_v2](https://github.com/DoctorSB/Notice_Telegram_Bot_v2) | Telegram-bot, file manager, DB, Docker | Python, aiogram3, postgres |
 
 ### 🌟 Другое
 | Name | Description | Tools |
 | --- | --- | --- |
-| [so_cute](https://github.com/DoctorSB/so_cute) | cute things for your second part | Python and other libs |
+| [Multiproccesing_and_Threads_Python](https://github.com/DoctorSB/Multiproccesing_and_Threads_Python) | Work with Threads and Processes  | Python and libs |
 
