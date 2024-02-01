@@ -1,6 +1,6 @@
 # 👋 Привет, я Булат Сабиров или @lukeshir - Python Developer
 ## Умения:
-  - 👨🏻‍💻 Python (Data Science, telegram-bots, etc.)
+  - 👨🏻‍💻 Python (DevOps, Data Science, etc.)
   - 🔩 C (Algoritms, library)
   - 🐸 Java, Flutter/Dart (Android apps)
 
