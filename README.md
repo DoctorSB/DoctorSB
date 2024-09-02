@@ -1,11 +1,11 @@
 # 👋 Привет, я Булат Сабиров или @lukeshir - Python Developer
 ## Умения:
-  - 👨🏻‍💻 Python (DevOps, Data Science, etc.)
+  - 👨🏻‍💻 Python (Backend, DevOps, Data Science, etc.)
   - 🔩 C (Algoritms, library)
   - 🐸 Java, Flutter/Dart (Android apps)
 
 ## Инфо: 
-  - 🌱 Студент [21 School](https://21-school.ru)
+  - 🌱 Выпускник [21 School](https://21-school.ru)
   - 🎓 Студент КНИТУ
 
 
