@@ -1,39 +1,86 @@
-# 👋 Привет, я Булат Сабиров или @lukeshir - Python Developer
-## Умения:
-  - 👨🏻‍💻 Python (Backend, DevOps, Data Science, etc.)
-  - 🔩 C (Algoritms, library)
-  - 🐸 Java, Flutter/Dart (Android apps)
+# 👋 Привет, я Булат Сабиров - Python Developer
 
-## Инфо: 
-  - 🌱 Выпускник [21 School](https://21-school.ru)
+---
+
+### 🛠️ Технологии
+- Python, FastAPI, Kubernetes, Docker, CI/CD (Jenkins, GitHub Actions, Gitlab CI/CD), PostgreSQL, Redis
+- Git, Linux, Pydantic, Swagger, Bitbucket, Nexus, Grafana
+
+---
+
+### 👤 Инфо: 
+  - 🎓 Выпускник [21 School](https://21-school.ru)
+  - 🎓 Выпускник [IT School Samsung](https://innovationcampus.ru/itschool/)
   - 🎓 Студент КНИТУ
-  - Собрал свой курс для начинающий [ссылка](https://www.notion.so/How-to-Hack-123d774e1ca180379ba6ec5244c8146f)
+  - 🎓 Собрал свой курс для начинающий [ссылка](https://www.notion.so/How-to-Hack-123d774e1ca180379ba6ec5244c8146f)
 
+---
+
+### 📈 Карьера:
+  - [СберТех](https://sbertech.ru/)
+  - [УлбынисьAI](https://www.smile-ai-market.ru/)
+  - [Самолет](https://samolet.ru/)
+
+---
+
+### 🏆 Благодарственные письма и награды
+
+- **Благодарственное письмо за вклад в развитие молодежной политики Республики Татарстан** — 2022, организатор.
+- **Благодарственные письма за помощь в подготовке и проведении отборочных интенсивов "Школа 21"**:
+  - Сургут, 2023, организатор.
+  - Казань, 2023, организатор.
+  - Великий Новгород, 2023, организатор.
+  - Якутск, 2023, организатор.
+  - Ярославль, 2024, организатор.
+  - Челябинск, 2024, организатор.
+  - Казань, 2024, организатор.
+- **Номинация EXPEERIENCE года** — "Школа 21", 2024, победитель.
+- **Благодарственное письмо за личный вклад в проведении Международного мультиспортивного турнира "Игры Будущего"** — 2024, организатор.
+
+---
+
+### 🎓 Образование и выпускные сертификаты
+
+- **Школа 21** — 2024, выпускник.
+- **Samsung IT-школа** — 2021, выпускник.
+- **Google Навыки** — 2021, выпускник.
+
+---
+
+### 🥇 Победы и достижения на хакатонах и конкурсах
+
+- **"Лучший стартап 2020"** — IT-FRESH, 2020, победитель.
+- **Хакатон VARWIN** — 2020, суперфиналист.
+- **Хакатон /startDobro** — 2023, победитель 3 степени.
+- **Всероссийская студенческая олимпиада "Компьютерное моделирование"**:
+  - Номинация: "Моделирование управляемого движения колесных мобильных роботов с использованием программы CoppeliaSim Edu 4.5.1", 2023, победитель 3 степени.
+  - 2023, участник.
+- **Хакатон INNOBATTLE GRADOSERVICE** — 2023, победитель 3 степени.
+
+---
+
+### 🛠 Участие в хакатонах и соревнованиях
+
+- **Первый хакатон по развитию креативных индустрий "Креатив на Волге"** — 2023, участник.
+- **Международный инженерный чемпионат CASEIN** — 2022, участник.
+- **Хакатон TulaHack** — 2022, участник.
+- **Хакатон Tatar.by** — 2022, участник.
+- **Хакатон Agro Hack** — 2022, участник.
+- **Хакатон "Digital Petrochem" от СИБУР** — 2024, участник.
+- **Хакатон "Лидеры цифровой трансформации Республика Саха (Якутия)"** — 2023, финалист.
+
+---
+
+### 🚀 Участие в CTF и форумах
+
+- **IT's Tinkoff CTF** — 2023, участник (87 место).
+- **Tinkoff CTF** — 2024, участник (141 место).
+- **Форум "НейроКазань" по применению искусственного интеллекта** — 2023, участник.
+
+---
 
 ____
 |[![DoctorSB Github stats](https://github-readme-stats.vercel.app/api?username=DoctorSB&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=dark)](https://github.com/DoctorSB?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSB&layout=compact&hide_border=true&hide=jupyter%20notebook,vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/DoctorSB?tab=repositories) |
 |---|---|
 ____
-
-### 🐍 Data Science
-| Name | Description | Tools |
-| --- | --- | --- |
-| [OilHack](https://github.com/DoctorSB/OilHack) | Парсинг файлов, Построение графиков | Python, matplotlib, pandas |
-| [VolgaHack](https://github.com/DoctorSB/VolgaHack) | Парсинг сайтов, Построение wordclloud | Python, sklearn, pandas |
-| [vk_education](https://github.com/DoctorSB/vk_education ) | Парсинг файлов, Обучение библиотекам | matplotlib, sklearn, pandas |
-| [Math_Logic](https://github.com/DoctorSB/math_logic) | Теория, Построение графиков | Python, numpy, matplotlib |
-| [Bike_Dataframe](https://github.com/DoctorSB/Bike-Dataframe) | Аналитика, метрики | Python, pandas |
-
-### 🐍 Telegram боты
-| Name | Description | Tools |
-| --- | --- | --- |
-| [GPT_Telegram_Bot](https://github.com/DoctorSB/GPT_Telegram_Bot) | Telegram-bot, API | Python (aiogram3, reqeuests, etc.)|
-| [DobroStart_Telegram_Bot](https://github.com/DoctorSB/DobroStart_Telegram_Bot) | Telegram-bot, file manager, DB, Docker | Python, aiogram3, postgres |
-| [SmartHostel_Telegram_Bot](https://github.com/DoctorSB/SmartHostel_Telegram_Bot) | Telegram-bot, json, Docker | Python (aiogram3, datatime) |
-| [Notice_Telegram_Bot_v2](https://github.com/DoctorSB/Notice_Telegram_Bot_v2) | Telegram-bot, file manager, DB, Docker | Python, aiogram3, postgres |
-
-### 🌟 Другое
-| Name | Description | Tools |
-| --- | --- | --- |
-| [Multiproccesing_and_Threads_Python](https://github.com/DoctorSB/Multiproccesing_and_Threads_Python) | Work with Threads and Processes  | Python and libs |
 
