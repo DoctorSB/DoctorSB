@@ -11,7 +11,7 @@
 ### 👤 Инфо: 
   - 🎓 Выпускник [21 School](https://21-school.ru)
   - 🎓 Выпускник [IT School Samsung](https://innovationcampus.ru/itschool/)
-  - 🎓 Студент КНИТУ
+  - 🎓 Выпускник КНИТУ
   - 🎓 Собрал свой курс для начинающий [ссылка](https://www.notion.so/How-to-Hack-123d774e1ca180379ba6ec5244c8146f)
 
 ---
